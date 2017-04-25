@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     /// <summary>
     /// This is a change made on dev branch
+    /// More changes on the task branch.
     /// </summary>
     class Program
     {
